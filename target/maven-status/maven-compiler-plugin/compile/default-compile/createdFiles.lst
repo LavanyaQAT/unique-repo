@@ -1,0 +1,4 @@
+pippin\qa\base\TestBase.class
+pippin\qa\pages\LoginPage.class
+pippin\qa\pages\PlaceOrderPage.class
+pippin\qa\util\TestUtil.class
